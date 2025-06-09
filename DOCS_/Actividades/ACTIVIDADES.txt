@@ -1,0 +1,18 @@
+
+-------PLANES-----------
+
+- Plan de instalación
+- Plan de Respaldo 
+- Plan de Migración
+- Plan de Capacitación
+- Plan de Pruebas
+
+------MANUALES----------
+
+- Manual de Instalación
+- Manual Técnico
+- Manual de Usuario
+
+-------EXTRAS------------
+
+- Evidencia de Despliegue
